@@ -37,7 +37,7 @@ Installation
 
 Clone the repository and compile the project:
 
-git clone https://github.com/yourusername/minishell.git
+git clone https://github.com/zel-khar/minihell_project.git minishell
 cd minishell
 make
 
